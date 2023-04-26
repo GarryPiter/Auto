@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bmwRepairs.put("Broken Part", 600);
         repairCostDatabase.put("BMW", bmwRepairs);
 
-        // Добавьте другие марки автомобилей и их цены на ремонт в зависимости от типа повреждения.
+        // Нужно добавить другие марки автомобилей и их цены на ремонт в зависимости от типа повреждения.
     }
 
     @Override
